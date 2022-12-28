@@ -7,8 +7,6 @@
 ![Screenshot from 2022-12-28 17-59-21](https://user-images.githubusercontent.com/110123287/209813092-a8e52969-0fe4-44c4-bbcd-82a63a7d2f49.png)
 
 
-Hello there! This repository contains the full source code for a 3D Ripple Animation using React, Three.js, and react-three-fiber. This code is meant to complement the following [tutorial](https://youtu.be/wRmeFtRkF-8). If you are interested in more, check out my [YouTube Channel](https://www.youtube.com/channel/UCilU-F_xHJRs3MPUtbejj2A). 
-
 # Usage
 To run this project, first clone the repository:
 
